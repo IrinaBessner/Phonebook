@@ -1,0 +1,11 @@
+11:02:36.834 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Irina\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+11:02:43.060 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveTestFromDataProviderWithCsvFile with data: [Contact{name='Ivan', phone='1234567890', email='ivanov@gm.de'}]
+11:02:47.087 [main] INFO  com.phonebook.tests.TestBase -- PASSED addContactPositiveTestFromDataProviderWithCsvFile
+11:02:47.088 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+11:02:47.088 [main] INFO  com.phonebook.tests.TestBase -- =============================================
+11:02:47.096 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveTestFromDataProviderWithCsvFile with data: [Contact{name='Petr', phone='5345245233', email='comp@de.at'}]
+11:03:01.020 [main] INFO  com.phonebook.tests.TestBase -- PASSED addContactPositiveTestFromDataProviderWithCsvFile
+11:03:01.021 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+11:03:01.021 [main] INFO  com.phonebook.tests.TestBase -- =============================================
